@@ -1,2 +1,4 @@
 # miaowu
-try to make miaowu space
+作者：van 
+### 2023.09.14
+设计了第一版方案，正式开始学习+实现
